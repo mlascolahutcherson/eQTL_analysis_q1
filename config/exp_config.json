@@ -1,0 +1,7 @@
+{
+    file_path = 'data/temp'
+    expression = 'data/raw/GD462.GeneQuantRPKM.50FN.samplename.resk10.txt.gz'
+    populations = "ALL_1000G_phase1integrated_v3.sample"
+    chrom = '22'
+    pops = ["CEU", "FIN", "GBR", "TSI", "YRI"]
+}

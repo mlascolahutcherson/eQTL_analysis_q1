@@ -1,0 +1,4 @@
+{
+    bed = "data/raw/filtered.bed"
+    file_path = 'data/temp'
+}

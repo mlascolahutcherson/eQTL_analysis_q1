@@ -1,0 +1,4 @@
+{
+    bim = 'data/raw/filtered.bim'
+    file_path = "data/temp"   
+}
