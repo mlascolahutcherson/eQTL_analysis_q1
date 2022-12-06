@@ -1,0 +1,7 @@
+{
+  title  ='Significant SNPS by Population'
+  ylabel= 'count of significant snps'
+  xlabel = 'Populations'
+  color = ['lavender','slateblue', 'mediumslateblue','darkslateblue', 'navy']
+  font =  16
+}
