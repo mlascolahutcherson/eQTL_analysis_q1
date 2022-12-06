@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "mlascola/qtr1_project:latest"
+    "build-script": "python run.py"
+}
