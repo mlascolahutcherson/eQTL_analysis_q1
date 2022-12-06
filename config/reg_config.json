@@ -1,0 +1,4 @@
+{
+  pops = ["CEU", "FIN", "GBR", "TSI", "YRI"]
+  sig_threshold = .00000005
+}
